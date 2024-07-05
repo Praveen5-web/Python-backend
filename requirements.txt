@@ -1,0 +1,12 @@
+aiohttp==3.9.5
+Flask==3.0.3
+Flask_Cors==4.0.1
+google_api_python_client==2.130.0
+openai==1.35.10
+protobuf>=3.19.5,<5.0.0
+google-api-core>=2.19.0,<3.0.0
+google-auth==2.29.0
+google-auth-httplib2==0.2.0
+google-cloud-vision==3.7.2
+googleapis-common-protos==1.63.0
+Requests==2.32.3
